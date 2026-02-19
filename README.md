@@ -1,2 +1,2 @@
-# github-rules-test
+# GitHub rules test
 Repo for testing rulesets and branching strategy
